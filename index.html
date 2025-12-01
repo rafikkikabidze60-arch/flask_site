@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Мини сайт на JavaScript</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 40px;
+        }
+        #text {
+            font-size: 30px;
+            margin-bottom: 20px;
+        }
+        #image {
+            width: 200px;
+            margin-top: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            margin: 10px;
+            font-size: 18px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 id="text">Привет! Это мини-сайт 😊</h1>
+
+    <button onclick="changeText()">Изменить текст</button>
+    <button onclick="changeColor()">Изменить цвет</button>
+    <button onclick="changeImage()">Изменить картинку</button>
+
+    <br>
+    <img id="image" src="https://picsum.photos/200" alt="Картинка">
+
+<script>
+    function changeText() {
+        document.getElementById("text").innerText = "Текст изменён! 🔥";
+    }
+
+    function changeColor() {
+        let colors = ["red", "blue", "green", "purple", "orange", "black"];
+        let randomColor = colors[Math.floor(Math.random() * colors.length)];
+        document.body.style.color = randomColor;
+    }
+
+    function changeImage() {
+        document.getElementById("image").src = "https://picsum.photos/200?random=" + Math.random();
+    }
+</script>
+
+</body>
+</html>
