@@ -1,0 +1,1142 @@
+.u-section-1 .u-sheet-1 {
+  минимальная высота: 420 пикселей;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-1 {
+  минимальная высота: 310 пикселей;
+  background-image: url("images/1586194994337.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  минимальная высота: 310 пикселей;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-1 .u-image-2 {
+  минимальная высота: 310 пикселей;
+  background-image: url("images/1587383695748.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-4 {
+  минимальная высота: 320 пикселей;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-3 {
+  отступ: 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    минимальная высота: 346 пикселей;
+  }
+
+  .u-section-1 .u-image-1 {
+    минимальная высота: 256 пикселей;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    минимальная высота: 256 пикселей;
+  }
+
+  .u-section-1 .u-image-2 {
+    минимальная высота: 256 пикселей;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    минимальная высота: 264px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    минимальная высота: 265 пикселей;
+  }
+
+  .u-section-1 .u-image-1 {
+    минимальная высота: 392px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    минимальная высота: 100 пикселей;
+  }
+
+  .u-section-1 .u-image-2 {
+    минимальная высота: 392px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    минимальная высота: 100 пикселей;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    минимальная высота: 199 пикселей;
+  }
+
+  .u-section-1 .u-image-1 {
+    минимальная высота: 588 пикселей;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    минимальная высота: 588 пикселей;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    минимальная высота: 1240 пикселей;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    ширина: 340 пикселей;
+    margin-right: -23px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    минимальная высота: 370 пикселей;
+  }
+
+  .u-section-1 .u-image-2 {
+    минимальная высота: 370 пикселей;
+  }
+}.u-section-2 .u-sheet-1 {
+  минимальная высота: 637 пикселей;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 60px auto 60px 0;
+}
+
+.u-section-2 .u-image-1 {
+  минимальная высота: 527 пикселей;
+  background-image: url("images/1587718180556.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  минимальная высота: 264px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 10px auto 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  межбуквенный интервал: 1 пиксель;
+  ширина: 97 пикселей;
+  высота: 24 пикселя;
+  margin: 20px auto 0 0;
+  отступ: 0;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  минимальная высота: 263px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-btn-2 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  межбуквенный интервал: 1 пиксель;
+  ширина: 97 пикселей;
+  высота: 24 пикселя;
+  margin: 20px auto 0 0;
+  отступ: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    минимальная высота: 453px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-image-1 {
+    минимальная высота: 435 пикселей;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    минимальная высота: 218 пикселей;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    минимальная высота: 217 пикселей;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    минимальная высота: 884px;
+  }
+
+  .u-section-2 .u-image-1 {
+    минимальная высота: 666 пикселей;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    минимальная высота: 100 пикселей;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    минимальная высота: 100 пикселей;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    минимальная высота: 718 пикселей;
+  }
+
+  .u-section-2 .u-image-1 {
+    минимальная высота: 500 пикселей;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    минимальная высота: 533px;
+  }
+
+  .u-section-2 .u-image-1 {
+    минимальная высота: 315 пикселей;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  минимальная высота: 649 пикселей;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 3rem;
+  background-image: none;
+  text-transform: none;
+  font-weight: 400;
+  margin: 60px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  ширина: 864 пикселя;
+  font-style: normal;
+  margin: 20px auto 0;
+}
+
+.u-section-3 .u-accordion-1 {
+  margin-bottom: 60px;
+  margin-top: 30px;
+}
+
+.u-section-3 .u-accordion-link-1 {
+  background-image: none;
+  font-weight: 700;
+  padding: 25px 30px;
+}
+
+.u-section-3 .u-icon-1 {
+  высота: 17 пикселей;
+  ширина: 17 пикселей;
+  цвет: rgb(0, 0, 0) !важно;
+}
+
+.u-section-3 .u-accordion-pane-1 {
+  минимальная высота: 150 пикселей;
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 20px 30px;
+}
+
+.u-section-3 .u-accordion-link-2 {
+  background-image: none;
+  font-weight: 700;
+  padding: 25px 30px;
+}
+
+.u-section-3 .u-icon-2 {
+  высота: 17 пикселей;
+  ширина: 17 пикселей;
+  цвет: rgb(0, 0, 0) !важно;
+}
+
+.u-section-3 .u-accordion-pane-2 {
+  минимальная высота: 150 пикселей;
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 20px 30px;
+}
+
+.u-section-3 .u-accordion-link-3 {
+  background-image: none;
+  font-weight: 700;
+  padding: 25px 30px;
+}
+
+.u-section-3 .u-icon-3 {
+  высота: 17 пикселей;
+  ширина: 17 пикселей;
+  цвет: rgb(0, 0, 0) !важно;
+}
+
+.u-section-3 .u-accordion-pane-3 {
+  минимальная высота: 150 пикселей;
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 20px 30px;
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-2 {
+    ширина: 720 пикселей;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    минимальная высота: 709 пикселей;
+  }
+
+  .u-section-3 .u-text-1 {
+    ширина: авто;
+    font-size: 2.25rem;
+  }
+
+  .u-section-3 .u-text-2 {
+    ширина: 540 пикселей;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-3 .u-text-2 {
+    ширина: 340 пикселей;
+  }
+}.u-section-4 .u-sheet-1 {
+  минимальная высота: 674px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 60px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  ширина: 740 пикселей;
+  margin: 20px auto 0;
+}
+
+.u-section-4 .u-btn-1 {
+  отступ: 0;
+}
+
+.u-section-4 .u-list-1 {
+  grid-template-rows: repeat(1, auto);
+  margin: 30px 0 60px;
+}
+
+.u-section-4 .u-repeater-1 {
+  grid-template-columns: repeat(4, 25%);
+  минимальная высота: 415 пикселей;
+  --gap: 0px;
+  grid-auto-columns: 25%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 20px;
+}
+
+.u-section-4 .u-image-1 {
+  высота: 266 пикселей;
+  margin: 0 auto 0 0;
+}
+
+.u-section-4 .u-text-3 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 20px;
+}
+
+.u-section-4 .u-image-2 {
+  высота: 266 пикселей;
+  margin: 0 auto 0 0;
+}
+
+.u-section-4 .u-text-5 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-text-6 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 30px 20px;
+}
+
+.u-section-4 .u-image-3 {
+  высота: 266 пикселей;
+  margin: 0 auto 0 0;
+}
+
+.u-section-4 .u-text-7 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-text-8 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding: 30px 20px;
+}
+
+.u-section-4 .u-image-4 {
+  высота: 266 пикселей;
+  margin: 0 auto 0 0;
+}
+
+.u-section-4 .u-text-9 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-text-10 {
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    минимальная высота: 656 пикселей;
+  }
+
+  .u-section-4 .u-list-1 {
+    margin-bottom: 21px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    минимальная высота: 376 пикселей;
+    grid-gap: 0px;
+  }
+
+  .u-section-4 .u-image-1 {
+    высота: 212 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-2 {
+    высота: 212 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-3 {
+    высота: 212 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-4 {
+    высота: 212 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-text-2 {
+    ширина: 720 пикселей;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: repeat(2, 50%);
+    минимальная высота: 415 пикселей;
+    grid-auto-columns: 50%;
+  }
+
+  .u-section-4 .u-image-1 {
+    высота: 348 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-2 {
+    высота: 348 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-3 {
+    высота: 348 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-4 {
+    высота: 348 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-2 {
+    ширина: 540 пикселей;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: repeat(1, 100%);
+    grid-auto-columns: 100%;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-1 {
+    высота: 566 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-2 {
+    высота: 566 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-3 {
+    высота: 566 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-4 {
+    высота: 566 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-text-2 {
+    ширина: 340 пикселей;
+  }
+
+  .u-section-4 .u-image-1 {
+    высота: 348 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-2 {
+    высота: 348 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-3 {
+    высота: 348 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-4 {
+    высота: 348 пикселей;
+    margin-right: initial;
+    margin-left: initial;
+  }
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  минимальная высота: 518 пикселей;
+}
+
+.u-section-5 .u-list-1 {
+  ширина: 721px;
+  grid-template-rows: repeat(1, auto);
+  высота: авто;
+  margin: 58px auto;
+}
+
+.u-section-5 .u-repeater-1 {
+  grid-template-columns: repeat(1, 100%);
+  минимальная высота: 398 пикселей;
+  --gap: 10px;
+  grid-auto-columns: 100%;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 8px 0 0;
+}
+
+.u-section-5 .u-image-1 {
+  ширина: 130 пикселей;
+  высота: 130 пикселей;
+  margin: 30px auto 0;
+}
+
+.u-section-5 .u-text-2 {
+  ширина: 137 пикселей;
+  margin: 20px auto 0;
+}
+
+.u-section-5 .u-text-3 {
+  ширина: 155 пикселей;
+  font-style: italic;
+  margin: 12px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-repeater-1 {
+    grid-gap: 10px;
+  }
+
+  .u-section-5 .u-image-1 {
+    background-position: 50% 50%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-list-1 {
+    ширина: 720 пикселей;
+  }
+
+  .u-section-5 .u-repeater-1 {
+    grid-auto-columns: calc(100% - 0px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-list-1 {
+    ширина: 540 пикселей;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-list-1 {
+    ширина: 340 пикселей;
+  }
+}.u-section-6 .u-sheet-1 {
+  минимальная высота: 420 пикселей;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-6 .u-image-1 {
+  минимальная высота: 310 пикселей;
+  background-image: url("images/1587718432347.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  минимальная высота: 310 пикселей;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-6 .u-text-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-6 .u-text-2 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-6 .u-image-2 {
+  минимальная высота: 310 пикселей;
+  background-image: url("images/1587982140154.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-6 .u-layout-cell-4 {
+  минимальная высота: 320 пикселей;
+}
+
+.u-section-6 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-6 .u-text-3 {
+  отступ: 0;
+}
+
+.u-section-6 .u-text-4 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    минимальная высота: 346 пикселей;
+  }
+
+  .u-section-6 .u-image-1 {
+    минимальная высота: 256 пикселей;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    минимальная высота: 256 пикселей;
+  }
+
+  .u-section-6 .u-image-2 {
+    минимальная высота: 256 пикселей;
+  }
+
+  .u-section-6 .u-layout-cell-4 {
+    минимальная высота: 264px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    минимальная высота: 265 пикселей;
+  }
+
+  .u-section-6 .u-image-1 {
+    минимальная высота: 392px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    минимальная высота: 100 пикселей;
+  }
+
+  .u-section-6 .u-image-2 {
+    минимальная высота: 392px;
+  }
+
+  .u-section-6 .u-layout-cell-4 {
+    минимальная высота: 100 пикселей;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    минимальная высота: 199 пикселей;
+  }
+
+  .u-section-6 .u-image-1 {
+    минимальная высота: 588 пикселей;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-image-2 {
+    минимальная высота: 588 пикселей;
+  }
+
+  .u-section-6 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    минимальная высота: 125 пикселей;
+  }
+
+  .u-section-6 .u-image-1 {
+    минимальная высота: 370 пикселей;
+  }
+
+  .u-section-6 .u-image-2 {
+    минимальная высота: 370 пикселей;
+  }
+} .u-section-7 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('images/6ad5387499080f34923559625e73e1536bb0dcbd1499e7ab04aaa1f0ba09a63074ca6eba4911f62338723bf10ae61ac1379fc23f50abdf315bb92e_1280.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-sheet-1 {
+  минимальная высота: 406 пикселей;
+}
+
+.u-section-7 .u-text-1 {
+  ширина: 670 пикселей;
+  margin: 60px auto 0;
+}
+
+.u-section-7 .u-social-icons-1 {
+  высота: 46 пикселей;
+  минимальная высота: 16 пикселей;
+  ширина: 206 пикселей;
+  min-width: 82px;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    минимальная высота: 335 пикселей;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    минимальная высота: 257 пикселей;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    минимальная высота: 193px;
+  }
+
+  .u-section-7 .u-text-1 {
+    ширина: 540 пикселей;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    минимальная высота: 292px;
+  }
+
+  .u-section-7 .u-text-1 {
+    ширина: авто;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}.u-section-8 .u-sheet-1 {
+  минимальная высота: 931px;
+}
+
+.u-section-8 .u-text-1 {
+  margin: 50px auto 0;
+}
+
+.u-section-8 .u-text-2 {
+  margin: 20px 60px 0;
+}
+
+.u-section-8 .u-layout-wrap-1 {
+  margin: 40px auto 50px 0;
+}
+
+.u-section-8 .u-layout-cell-1 {
+  минимальная высота: 334px;
+}
+
+.u-section-8 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-8 .u-layout-cell-2 {
+  минимальная высота: 230 пикселей;
+}
+
+.u-section-8 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-8 .u-text-3 {
+  отступ: 0;
+}
+
+.u-section-8 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-8 .u-text-5 {
+  margin: 20px 0 0;
+}
+
+.u-section-8 .u-text-6 {
+  margin: 20px 0 0;
+}
+
+.u-section-8 .u-layout-cell-3 {
+  минимальная высота: 230 пикселей;
+}
+
+.u-section-8 .u-container-layout-3 {
+  padding: 30px 29px 30px 30px;
+}
+
+.u-section-8 .u-form-1 {
+  высота: 313 пикселей;
+  margin: 0 -80px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-sheet-1 {
+    минимальная высота: 832px;
+  }
+
+  .u-section-8 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-8 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-8 .u-layout-cell-1 {
+    минимальная высота: 275 пикселей;
+  }
+
+  .u-section-8 .u-layout-cell-2 {
+    минимальная высота: 190 пикселей;
+  }
+
+  .u-section-8 .u-layout-cell-3 {
+    минимальная высота: 190 пикселей;
+  }
+
+  .u-section-8 .u-form-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-sheet-1 {
+    минимальная высота: 678 пикселей;
+  }
+
+  .u-section-8 .u-layout-cell-1 {
+    минимальная высота: 211 пикселей;
+  }
+
+  .u-section-8 .u-layout-cell-2 {
+    минимальная высота: 100 пикселей;
+  }
+
+  .u-section-8 .u-layout-cell-3 {
+    минимальная высота: 100 пикселей;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-sheet-1 {
+    минимальная высота: 725 пикселей;
+  }
+
+  .u-section-8 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-8 .u-layout-cell-1 {
+    минимальная высота: 158 пикселей;
+  }
+
+  .u-section-8 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-8 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-8 .u-container-layout-3 {
+    padding-right: 10px;
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    минимальная высота: 666 пикселей;
+  }
+
+  .u-section-8 .u-layout-cell-1 {
+    минимальная высота: 99 пикселей;
+  }
+}
